@@ -11,4 +11,5 @@ gem 'mysql2'
 group :development do
   gem 'rake'
   gem 'faker'
+  gem 'pry-byebug'
 end
